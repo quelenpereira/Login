@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #2A95D0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxlogin{
+    width: 550px;
+    height: 450px;
+    background-color:#235390;
+    border-radius: 30px;
+    
+}
+h1{
+    color: #fff;
+    text-align: center;
+}
